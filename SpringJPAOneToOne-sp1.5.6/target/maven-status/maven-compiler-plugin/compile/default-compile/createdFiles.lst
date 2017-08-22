@@ -1,0 +1,5 @@
+com\javasampleapproach\jpa\one2one\model\Wife.class
+com\javasampleapproach\jpa\one2one\repository\HusbandRepository.class
+com\javasampleapproach\jpa\one2one\repository\WifeRepository.class
+com\javasampleapproach\jpa\one2one\SpringJpaOneToOneApplication.class
+com\javasampleapproach\jpa\one2one\model\Husband.class
